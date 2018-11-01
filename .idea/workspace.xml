@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e315941-a77d-4359-9f80-bb2614ca1056" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrimeAndBack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/existLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,33 +20,34 @@
     <session id="454478840">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="4" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="2399" />
+          <entry key="py" value="3095" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="2399" />
+          <entry key="Python" value="3095" />
         </counts>
       </usages-collector>
     </session>
@@ -68,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QuickSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
+            <state relative-caret-position="665">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <marker date="1540915930844" expanded="true" signature="68:73" ph="..." />
@@ -80,17 +81,64 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PrimeAndBack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state>
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/singleton.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+              <folding>
+                <marker date="1541061067030" expanded="true" signature="32:37" ph="..." />
+                <marker date="1541061067030" expanded="true" signature="258:263" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fibonacci.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <marker date="1541064674357" expanded="true" signature="20:25" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/PY/test/Singleton_mode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="19" selection-start-line="19" selection-end-line="24" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ListTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="114">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/existLoop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <marker date="1541060132062" expanded="true" signature="28:33" ph="..." />
+                <marker date="1541060132062" expanded="true" signature="133:138" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,6 +163,9 @@
         <option value="$PROJECT_DIR$/PrimeAndBack.py" />
         <option value="$PROJECT_DIR$/Count0.py" />
         <option value="$PROJECT_DIR$/ListTest.py" />
+        <option value="$PROJECT_DIR$/existLoop.py" />
+        <option value="$PROJECT_DIR$/singleton.py" />
+        <option value="$PROJECT_DIR$/Fibonacci.py" />
       </list>
     </option>
   </component>
@@ -130,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,7 +192,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/PY/test/Singleton_mode.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,7 +210,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ListTest">
+  <component name="RunManager" selected="Python.Fibonacci">
+    <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Basis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ListTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="existLoop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,7 +286,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QuickSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/existLoop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ip2bin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="singleton" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,7 +307,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ip2bin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/singleton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,17 +317,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ip2bin" />
-      <item itemvalue="Python.QuickSort" />
       <item itemvalue="Python.PrimeAndBack" />
       <item itemvalue="Python.ListTest" />
+      <item itemvalue="Python.existLoop" />
+      <item itemvalue="Python.singleton" />
+      <item itemvalue="Python.Fibonacci" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ListTest" />
+        <item itemvalue="Python.Fibonacci" />
+        <item itemvalue="Python.singleton" />
         <item itemvalue="Python.PrimeAndBack" />
-        <item itemvalue="Python.QuickSort" />
-        <item itemvalue="Python.ip2bin" />
+        <item itemvalue="Python.existLoop" />
+        <item itemvalue="Python.ListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +347,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112351194" />
@@ -278,7 +355,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4923077" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4923077" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -308,7 +385,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/QuickSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
+        <state relative-caret-position="665">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <marker date="1540915930844" expanded="true" signature="68:73" ph="..." />
@@ -316,17 +393,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PrimeAndBack.py">
+    <entry file="file://$PROJECT_DIR$/ListTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="114">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ListTest.py">
+    <entry file="file://E:/PY/test/test_lianbiao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="-114">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeAndBack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/existLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <marker date="1541060132062" expanded="true" signature="28:33" ph="..." />
+            <marker date="1541060132062" expanded="true" signature="133:138" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PY/test/Singleton_mode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="19" selection-start-line="19" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <marker date="1541061067030" expanded="true" signature="32:37" ph="..." />
+            <marker date="1541061067030" expanded="true" signature="258:263" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1541064674357" expanded="true" signature="20:25" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
