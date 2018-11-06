@@ -9,3 +9,4 @@ def fib(m):
 
 for i in fib(5):
     print(i)
+
